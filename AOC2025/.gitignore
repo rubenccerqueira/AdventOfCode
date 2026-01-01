@@ -1,0 +1,7 @@
+.vscode/**/*
+
+node_modules/**/*
+
+Day_*/input.txt
+
+build
